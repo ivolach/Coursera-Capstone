@@ -3,6 +3,9 @@
 		{
 			"name": "Coursera-Capstone",
 			"path": "."
+		},
+		{
+			"path": "..\\..\\Practice Workspace"
 		}
 	]
 }
